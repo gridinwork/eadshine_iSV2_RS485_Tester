@@ -1,5 +1,7 @@
 # Leadshine iSV2 RS-485 Tester
 
+![Leadshine iSV2 RS-485 Tester GUI](docs/images/gui-main.svg)
+
 Windows/Python GUI for testing and controlling **Leadshine iSV2-RS8075V48G** over **Modbus RTU / RS-485**.
 
 ## Current bench defaults
