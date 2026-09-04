@@ -9,7 +9,7 @@ if not exist ".venv\Scripts\python.exe" (
     exit /b 1
 )
 
-".venv\Scripts\python.exe" main.py
+".venv\Scripts\python.exe" main_v1_3.py
 if errorlevel 1 (
     echo.
     echo Application exited with an error.
